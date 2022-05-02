@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-app-Alarm/static/css/main.09955377.css",
-    "main.js": "/React-app-Alarm/static/js/main.d4accb49.js",
-    "static/js/787.e8871c4f.chunk.js": "/React-app-Alarm/static/js/787.e8871c4f.chunk.js",
-    "index.html": "/React-app-Alarm/index.html",
-    "main.09955377.css.map": "/React-app-Alarm/static/css/main.09955377.css.map",
-    "main.d4accb49.js.map": "/React-app-Alarm/static/js/main.d4accb49.js.map",
-    "787.e8871c4f.chunk.js.map": "/React-app-Alarm/static/js/787.e8871c4f.chunk.js.map"
+    "main.css": "./static/css/main.09955377.css",
+    "main.js": "./static/js/main.a56aa8fd.js",
+    "static/js/787.e8871c4f.chunk.js": "./static/js/787.e8871c4f.chunk.js",
+    "index.html": "./index.html",
+    "main.09955377.css.map": "./static/css/main.09955377.css.map",
+    "main.a56aa8fd.js.map": "./static/js/main.a56aa8fd.js.map",
+    "787.e8871c4f.chunk.js.map": "./static/js/787.e8871c4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09955377.css",
-    "static/js/main.d4accb49.js"
+    "static/js/main.a56aa8fd.js"
   ]
 }
